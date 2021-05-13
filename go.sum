@@ -26,6 +26,7 @@ github.com/AstroProfundis/sysinfo v0.0.0-20210201035811-eb96b87c86b3 h1:JkHFCvR7
 github.com/AstroProfundis/sysinfo v0.0.0-20210201035811-eb96b87c86b3/go.mod h1:4m15VhW6ZffaqJNAK/HtN3Qvf97aCe1T39u3UXaA2lA=
 github.com/AstroProfundis/tabby v1.1.1-color h1:gi/Fs4W2KVcC1m29lqa39tDnsGfZG/PYvZmwOhAH5m0=
 github.com/AstroProfundis/tabby v1.1.1-color/go.mod h1:Wcm+uinH1saEOFGLK2LdY37lAOts8HLevz64Y3y3M3Q=
+github.com/AstroProfundis/xoutil v0.0.0-20210513105001-1eafd6262bde/go.mod h1:VEjJr4Je44Fg0zxMZaSgpCyp3QJxcoEIxtl5JqMtNrk=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
@@ -956,7 +957,6 @@ github.com/xo/terminfo v0.0.0-20190125114736-1a4775eeeb62 h1:GW+Rt02+4bpiSsn4Km9
 github.com/xo/terminfo v0.0.0-20190125114736-1a4775eeeb62/go.mod h1:6Yhx5ZJl5942QrNRWLwITArVT9okUXc5c3brgWJMoDc=
 github.com/xo/usql v0.7.8 h1:+6AvDR/UYeKvzDs2ILWvGXKCfbmGkJPR7i4mnUhWS5E=
 github.com/xo/usql v0.7.8/go.mod h1:lmjb2xMb8yY1le5mlSvOSat4EoMM2HseDhVIPKAhAps=
-github.com/xo/xoutil v0.0.0-20171112033149-46189f4026a5/go.mod h1:GngMELAA694UVFs172352HAA2KQEf4XuETgWmL4XSoY=
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

@@ -79,4 +79,7 @@ require (
 	software.sslmate.com/src/go-pkcs12 v0.0.0-20201103104416-57fc603b7f52
 )
 
-replace gopkg.in/yaml.v2 => github.com/july2993/yaml v0.0.0-20200423062752-adcfa5abe2ed
+replace (
+	github.com/xo/xoutil => github.com/AstroProfundis/xoutil v0.0.0-20210513105001-1eafd6262bde
+	gopkg.in/yaml.v2 => github.com/july2993/yaml v0.0.0-20200423062752-adcfa5abe2ed
+)
