@@ -48,7 +48,7 @@ func ScpDownload(session *ssh.Session, client *ssh.Client, src, dst string, limi
 			return err
 		}
 		if line[0] != byte('C') {
-			return fmt.Errorf("incorrect scp command '%b', should be 'C'", line[0])
+			return fmt.Errorf("incorrect scp command '%c', should be 'C' (%s)", line[0], string(line))
 		}
 
 		mode, err := strconv.ParseUint(string(line[1:5]), 0, 32)
